@@ -1,0 +1,15 @@
+.container{
+    max-height: 90vh;
+    max-width: 1140px;
+    margin: 0 auto;
+    overflow-y: scroll;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
+
+td{
+    padding: 20px;
+    width:30px;
+}
